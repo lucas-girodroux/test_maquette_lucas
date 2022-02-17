@@ -1,3 +1,4 @@
+
 .logo{
     display: flex;
     margin: 56px 0px 0px 191px
@@ -23,4 +24,42 @@
     font-weight: bold;
     font-size: 24px;
     font-family: Mulish; 
+}
+
+
+.menu{  
+    position: absolute;
+    width: 545px;
+    height: 23px;
+    left: 863px;
+    top: 75px;
+    display: flex;
+}
+
+.menu__aboutus, .menu__apps, .menu__findadoctor, .menu__testimonials{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+
+    /* identical to box height */
+    margin-left: 40px;
+    color: #1F1534;
+
+    opacity: 0.5; 
+}
+
+.menu__home{
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+
+    /* identical to box height */
+
+    /* 1f1534-hyfen */
+    color: #1F1534;
 }
