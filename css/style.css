@@ -1,0 +1,26 @@
+.logo{
+    display: flex;
+    margin: 56px 0px 0px 191px
+}
+
+.logo__cercle { 
+    margin:10px;
+    width:41px;
+    background:#458FF6;
+    height:41px;
+    text-align:center;
+    border-radius:100px;
+    line-height: 40px; 
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+} 
+
+
+.logo__text{
+    line-height: 60px;
+    color: #233348;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Mulish; 
+}
