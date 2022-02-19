@@ -121,14 +121,11 @@ color: #FFFFFF;
 }
 
 .our_services{
-
     position: absolute;
     width: 1675.58px;
     height: 1133px;
-    top: 965px;
-    
+    top: 965px;  
 }
-
 
 .our_services__text_titre{
     text-align: center;
@@ -152,6 +149,7 @@ color: #FFFFFF;
     background: #000000;
     border-radius: 5px;
 }
+
 .our_services_text_paragraphe{
     margin-top: 61px;
     font-family: Mulish;
@@ -164,6 +162,74 @@ color: #FFFFFF;
     text-align: center;
 
     color: #7D7987;
+}
 
+.our_services__service{
+    margin-top: 80px;
+    position: absolute;
+    left: 239px;
+}
 
+.our_services__service_titre{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 56px;
+    margin-left: 39px;
+    
+
+    color: #000000;
+}
+.our_services__service_paragraphe{
+    margin-left: 39px;
+    margin-right: 80px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+
+    color: #7D7987;
+}
+.our_services__service_frame{
+    margin-left: 37px;
+    width: 91.98px;
+    height: 90px;
+}
+
+.our_services__service_search_doctor{
+    width: 350px;
+    height: 354px;
+    padding-top: 54px;
+    padding-bottom: 46.59px;
+    background: #faf7f7;
+    border-radius: 20px;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
+.our_services__service_online_pharmacy{
+    position: absolute;
+    width: 350px;
+    height: 354px;
+    left: 384px;
+    top: 0px;
+    
+    padding-top: 54px;
+    padding-bottom: 46.59px;
+    background: #faf7f7;
+    border-radius: 20px;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
+.our_services__service_consultation{
+    position: absolute;
+    width: 350px;
+    height: 354px;
+    left: 770px;
+    top: 0px;
+    
+    padding-top: 54px;
+    padding-bottom: 46.59px;
+    background: #faf7f7;
+    border-radius: 20px;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
 }
