@@ -119,3 +119,51 @@ color: #FFFFFF;
     left: 744px;
     top: 177px;
 }
+
+.our_services{
+
+    position: absolute;
+    width: 1675.58px;
+    height: 1133px;
+    top: 965px;
+    
+}
+
+
+.our_services__text_titre{
+    text-align: center;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 56px;
+
+    color: #000000;
+}
+.our_services_text_rectangle{
+    margin-top: 26px;
+    position: absolute;
+    width: 56px;
+    height: 2px;
+    left: 810px;
+    text-align: center;
+
+
+    background: #000000;
+    border-radius: 5px;
+}
+.our_services_text_paragraphe{
+    margin-top: 61px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+
+
+    text-align: center;
+
+    color: #7D7987;
+
+
+}
