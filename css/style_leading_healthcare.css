@@ -1,0 +1,52 @@
+ /* leading healthcare providers */
+.leading{
+ 
+  position: absolute;
+  width: 1273px;
+  height: 477px;
+  left: 135px;
+  top: 2418px;
+  
+  display: flex;
+}
+
+.leading__image img{
+  width: 650px;
+  height: 477px;
+}
+
+.leading__text{
+  margin-left: 137px;
+}
+
+.leading__text_titre{
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 56px;
+
+  color: #000000;
+}
+
+.leading__text_rectangle{
+  
+position: absolute;
+width: 56px;
+height: 2px;
+
+margin-top: -10px;
+background: #000000;
+border-radius: 10px;
+}
+.leading__text_paragraphe{
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+
+  color: #7D7987;
+  
+  margin-top: 49px;
+}

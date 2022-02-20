@@ -1,125 +1,4 @@
-.logo{
-    display: flex;
-    margin: 56px 0px 0px 191px
-}
-
-.logo__cercle { 
-    margin:10px;
-    width:41px;
-    background:#458FF6;
-    height:41px;
-    text-align:center;
-    border-radius:100px;
-    line-height: 40px; 
-    color: white;
-    font-size: 26px;
-    font-weight: bold;
-} 
-
-
-.logo__text{
-    line-height: 60px;
-    color: #233348;
-    font-weight: bold;
-    font-size: 24px;
-    font-family: Mulish; 
-}
-
-
-.menu{  
-    position: absolute;
-    width: 545px;
-    height: 23px;
-    left: 863px;
-    top: 75px;
-    display: flex;
-}
-
-.menu__item{
-    font-family: Mulish;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 23px;
-
-    /* identical to box height */
-    margin-left: 40px;
-    color: #1F1534;
-
-    opacity: 0.5; 
-    
-}
-
-.menu__home{
-    
-    font-family: Mulish;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 23px;
-
-    /* identical to box height */
-
-    /* 1f1534-hyfen */
-    color: #1F1534;
-}
-
-.header_text{
-    position: absolute;
-    width: 445px;
-    height: 338px;
-    left: 190px;
-    top: 283px;
-}
-
-.header_text__titre{
-
-    font-family: Mulish;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 48px;
-    line-height: 56px;
-    
-    color: #000000;
-}
-
-.header_text__paragraphe{
-margin-top: 25px;
-font-family: Mulish;
-font-style: normal;
-font-weight: 300;
-font-size: 21px;
-line-height: 32px;
-
-color: #7D7987;
-}
-
-.header_text__boutton{
-margin-top: 45px;
-width: 200px;
-height: 60px;
-    
-background: #458FF6;
-border-radius: 55px;
-
-font-family: Mulish;
-font-style: normal;
-font-weight: bold;
-font-size: 18px;
-line-height: 60px;
-text-align: center;
-
-color: #FFFFFF;
-}
-
-.header_image{ 
-    position: absolute;
-    width: 693px;
-    height: 598px;
-    left: 744px;
-    top: 177px;
-}
-
+/* Our Services*/
 .our_services{
     position: absolute;
     top: 965px;  
@@ -281,26 +160,24 @@ color: #FFFFFF;
 }
 
 .our_services__boutton{
-   margin-top:69px;
-    position: absolute;
-    width: 200px;
-    height: 60px;
-    left: 690px;
-    top: 1015px;
+   margin-top:134px;
+   position: absolute;
+   width: 200px;
+   height: 60px;
+   left: 670px;
+   top: 1015px;
 
-    border: 1.4px solid #458FF6;
-    box-sizing: border-box;
-    border-radius: 55px;
+   border: 1.4px solid #458FF6;
+   box-sizing: border-box;
+   border-radius: 55px;
 
-    font-family: Mulish;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 60px;
+   font-family: Mulish;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 18px;
+   line-height: 60px;
 
-    color: #458FF6;
+   color: #458FF6;
     
-    text-align: center;
-
-
+   text-align: center;
 }
