@@ -126,7 +126,7 @@ color: #FFFFFF;
 }
 
 .our_services__text{
-    margin-left: 322px;
+    margin-left: 300px;
     width: 952px;
     height: 177px;
 
@@ -147,7 +147,7 @@ color: #FFFFFF;
     position: absolute;
     width: 56px;
     height: 2px;
-    left: 771px;
+    left: 745px;
     text-align: center;
 
 
@@ -207,7 +207,7 @@ color: #FFFFFF;
     width: 350px;
     height: 354px;
     padding-top: 54px;
-    padding-bottom: 46.59px;
+
     background: #faf7f7;
     border-radius: 20px;
     box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
@@ -220,7 +220,6 @@ color: #FFFFFF;
     top: 0px;
     
     padding-top: 54px;
-    padding-bottom: 46.59px;
     background: #faf7f7;
     border-radius: 20px;
     box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
@@ -233,7 +232,49 @@ color: #FFFFFF;
     top: 0px;
     
     padding-top: 54px;
-    padding-bottom: 46.59px;
+    
+    background: #faf7f7;
+    border-radius: 20px;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
+
+.our_services__service_detail_info{
+    position: absolute;
+    width: 350px;
+    height: 354px;
+    left: 0px;
+    top: 391px;
+    
+    margin-top: 37px;
+    padding-top: 54px;
+    background: #faf7f7;
+    border-radius: 20px;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
+
+.our_services__service_emergency_care{
+    position: absolute;
+    width: 350px;
+    height: 354px;
+    left: 384px;
+    top: 391px;
+    
+    margin-top: 37px;
+    padding-top: 54px;
+    background: #faf7f7;
+    border-radius: 20px;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
+
+.our_services__service_traking{
+    position: absolute;
+    width: 350px;
+    height: 354px;
+    left: 770px;
+    top: 391px;
+    
+    margin-top: 37px;
+    padding-top: 54px;
     background: #faf7f7;
     border-radius: 20px;
     box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
