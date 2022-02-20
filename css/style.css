@@ -122,9 +122,14 @@ color: #FFFFFF;
 
 .our_services{
     position: absolute;
-    width: 1675.58px;
-    height: 1133px;
     top: 965px;  
+}
+
+.our_services__text{
+    margin-left: 322px;
+    width: 952px;
+    height: 177px;
+
 }
 
 .our_services__text_titre{
@@ -142,7 +147,7 @@ color: #FFFFFF;
     position: absolute;
     width: 56px;
     height: 2px;
-    left: 810px;
+    left: 771px;
     text-align: center;
 
 
