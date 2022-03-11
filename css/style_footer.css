@@ -1,0 +1,82 @@
+.footer{
+  position: absolute;
+  width: 1400px;
+  height: 432px;
+  left: 0px;
+  top: 5438px;
+
+  background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+  display: flex;
+}
+
+.footer__trafalgar{
+  width: 391px;
+  height: 201px;
+  margin-left: 190px;
+  margin-top: 118px;
+}
+.footer__trafalgar_logo{
+  display: flex;
+}
+.footer__trafalgar_logo_cercle{
+    margin:10px 10px 10px 0px;
+    width:41px;
+    background:#FFFFFF;
+    height:41px;
+    text-align:center;
+    border-radius:100px;
+    line-height: 40px; 
+    color: #458FF6;
+    font-size: 26px;
+    font-weight: bold;
+}
+.footer__trafalgar_logo_titre{
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 60px;
+
+  color: #FFFFFF;
+}
+.footer__trafalgar_paragraphe{
+  width: 391px;
+  height: 84px;
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+
+  color: #FFFFFF;
+}
+
+.footer__company{
+  margin-left: 145px;
+  margin-top: 118px;
+}
+.footer__region, .footer__help{
+  margin-left: 133px;
+  margin-top: 118px;
+}
+
+.footer__liste_titre{
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 60px;
+
+  color: #FFFFFF;
+  margin-bottom: 2px;
+}
+.footer__liste{
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 38px;
+
+  color: #FFFFFF;
+  
+}
